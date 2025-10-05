@@ -1,0 +1,4 @@
+source_dir = "content"
+output_dir = "public"
+template_file = "template.html"
+css_file = "style.css"
