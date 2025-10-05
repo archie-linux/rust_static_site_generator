@@ -9,8 +9,3 @@
 <img src="./example.png" alt="drawing" width="400"/>
 
 <img src="./about.png" alt="drawing" width="400"/>
-
-
-P.S. Coding methodology inspired by the KISS (Keep It Simple, Stupid) principle.
-
-> “Just Gork It Silly!”
