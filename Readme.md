@@ -11,3 +11,5 @@
 <img src="./about.png" alt="drawing" width="400"/>
 
 **Note**: Rust projects are vibecoded to the fullest extent with no knowledge whatsoever.
+
+> This project was casually coded.
