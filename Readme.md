@@ -9,3 +9,5 @@
 <img src="./example.png" alt="drawing" width="400"/>
 
 <img src="./about.png" alt="drawing" width="400"/>
+
+**Note**: Rust projects are vibecoded to the fullest extent with no knowledge whatsoever.
